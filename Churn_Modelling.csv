@@ -108,7 +108,7 @@ RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,Num
 107,15599195,Stiger,582,Germany,Male,32,1,88938.62,1,1,1,10054.53,0
 108,15812878,Parsons,785,Germany,Female,36,2,99806.85,1,0,1,36976.52,0
 109,15602312,Walkom,605,Spain,Male,33,5,150092.8,1,0,0,71862.79,0
-110,15744689,T'ang,479,Germany,Male,35,9,92833.89,1,1,0,99449.86,1
+110,15744689,Tang,479,Germany,Male,35,9,92833.89,1,1,0,99449.86,1
 111,15803526,Eremenko,685,Germany,Male,30,3,90536.81,1,0,1,63082.88,0
 112,15665790,Rowntree,538,Germany,Male,39,7,108055.1,2,1,0,27231.26,0
 113,15715951,Thorpe,562,France,Male,42,2,100238.35,1,0,0,86797.41,0
