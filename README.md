@@ -1,5 +1,19 @@
 # NSI
 
+
+## **TP Python SNT**
+
+* **TP Développement conduit par les test**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/NSI/HEAD?filepath=TP_Développement_conduit_par_les_tests.ipynb)
+
+* **TP traitement de l'image**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/NSI/HEAD?filepath=TP_Développement_conduit_par_les_tests.ipynb)
+
+* **TP Géolocalisation**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/NSI/HEAD?filepath=TP_Développement_conduit_par_les_tests.ipynb)
+
 **Traitement des données en tables**
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/NSI/HEAD?filepath=M1_NSI_Pandas_et_Matplotlib.ipynb)
