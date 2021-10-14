@@ -4,6 +4,7 @@
 ## **TP Python SNT**
 
 * **TP Développement conduit par les test**
+* 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/NSI/HEAD?filepath=TP_Développement_conduit_par_les_tests.ipynb)
 
 * **TP traitement de l'image**
@@ -12,7 +13,7 @@
 
 * **TP Géolocalisation**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/NSI/HEAD?filepath=TP_Développement_conduit_par_les_tests.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/NSI/HEAD?filepath=TP_Geolocalisation.ipynb)
 
 **Traitement des données en tables**
 
